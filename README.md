@@ -26,3 +26,5 @@ You cand find me:
 - [Web](https://ibpsimracer.com)
 
 ---
+### My stats
+[![davibern's github stats](https://github-readme-stats.vercel.app/api?username=davibern)](https://github.com/davibern/github-readme-stats)
