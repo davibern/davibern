@@ -16,7 +16,7 @@
 ```javascript
 const davibern = {
   pronouns: "her",
-  code: [HTML, CSS, PHP, Java, C#, LotusScript, SQL, R, DAX],
+  code: [HTML, CSS, PHP, Java, C#, LotusScript, SQL, R, Python, DAX],
   IDE's: [VS Code, Intellij, NetBeans, Lotus Designer, R Studio, Android Studio, Unity]
 }
 ```
