@@ -24,7 +24,3 @@ const davibern = {
 You cand find me:
 - [Linkedin](https://www.linkedin.com/in/david-bernab%C3%A9-1067b61b8/)
 - [Web](https://ibpsimracer.com)
-
----
-### My stats
-[![davibern's github stats](https://github-readme-stats.vercel.app/api?username=davibern)](https://github.com/davibern/github-readme-stats)
