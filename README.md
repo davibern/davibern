@@ -1,7 +1,7 @@
 Hi 👋 My name is Davibern
 =========================
 
-Data Analyst and developer
+Data Analyst and Developer
 --------------------------
 
 👨‍💻 I’m currently working on analyst in a big insurance company (organization & quality) and also I develop software with low code like Power Apps
